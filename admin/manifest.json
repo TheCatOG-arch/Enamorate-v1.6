@@ -1,26 +1,21 @@
 {
-  "id": "./",
-  "name": "Café Enamórate Admin",
-  "short_name": "Admin Enamórate",
-  "description": "Panel de control y gestión de pedidos.",
-  "start_url": ".",
-  "scope": ".",
+  "name": "Admin Enamórate",
+  "short_name": "Admin",
+  "start_url": "/Enamorate/admin/",
+  "scope": "/Enamorate/admin/",
   "display": "standalone",
-  "background_color": "#f3f3f3",
   "theme_color": "#0067c0",
-  "orientation": "portrait-primary",
+  "background_color": "#f3f3f3",
   "icons": [
     {
-      "src": "images/admin-icon-192.png",
+      "src": "/Enamorate/admin/images/admin-icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     },
     {
-      "src": "images/admin-icon-512.png",
+      "src": "/Enamorate/admin/images/admin-icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     }
   ]
 }
