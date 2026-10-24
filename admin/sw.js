@@ -1,4 +1,4 @@
-// Service Worker para el Admin
+// admin/sw.js
 self.addEventListener('install', (e) => {
     self.skipWaiting();
 });
