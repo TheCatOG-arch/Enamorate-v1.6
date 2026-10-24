@@ -1,19 +1,19 @@
 {
   "name": "Café Enamórate Admin",
   "short_name": "Admin Enamórate",
-  "start_url": ".",
-  "scope": ".",
+  "start_url": "/Enamorate-v1.6/admin/index.html",
+  "scope": "/Enamorate-v1.6/admin/",
   "display": "standalone",
   "background_color": "#f3f3f3",
   "theme_color": "#0067c0",
   "icons": [
     {
-      "src": "images/admin-icon-192.png",
+      "src": "/Enamorate-v1.6/admin/images/admin-icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "images/admin-icon-512.png",
+      "src": "/Enamorate-v1.6/admin/images/admin-icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
